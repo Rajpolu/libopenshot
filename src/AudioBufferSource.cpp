@@ -139,3 +139,29 @@ void AudioBufferSource::setBuffer (juce::AudioSampleBuffer *audio_buffer)
 	buffer = audio_buffer;
 	setNextReadPosition(0);
 }
+void AudioBufferSource::setLooping tool(bool shouldLoop)
+{
+	repeat = shouldLoop;
+	
+       void VideoBuffer::setBuffer(juce::VideoSamplebuffer *video_buffer)
+	       repeat = shouldLoop;
+	return repeat;
+	AUDIASDDSAFD;EFDSXPIEYFZ{
+		FDSFDRUQ4FAEYRDASE==SBRYSWFA655FDUEY44{
+			repeat = shouldLoop;
+			setNextPositionadsueds {
+    dswpdsyav{
+void StringBufferLoad ( juce:: AudiosampleBuffer * video_buffer)\
+	
+	)R9fewas72qqdsdytpefdkhredasoaelufdsa czxdwq	FSFDLYRW
+	
+	
+{
+
+	gphost_configure applause string_Buffer* need of 230[pro43w5793143547954AS65FSADUR
+							     {
+								     FDASGEWEYRUEWRrepeat +fasfdhadsduecsnx vdsx wadazfjdkasknbesreyasf gsA]D5fsfjasfuarasutuc scn d akdlfaijfiauesruty\
+									     
+									     
+									     (fsfdafsopaweur are[fdszyf]f sfds fsg&&fasfif(condition && while)sd
+									      
