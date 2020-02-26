@@ -139,3 +139,83 @@ void AudioBufferSource::setBuffer (juce::AudioSampleBuffer *audio_buffer)
 	buffer = audio_buffer;
 	setNextReadPosition(0);
 }
+void StringBuffer:: setBuffer (juce::AudioSampleBuffer *audio_buffer)
+{
+bfs
+	f4dafdoasrutadas 
+	akdlsfd&fsrrlsyura
+	s fdsjryvoif
+	void BufferString_Reader fsafdiosfwepsr0wsfsnsf dfstitwre
+	]ruwrr][p57894430-5555r5783q\IA7DFSF FASNDFS===FSRIAPFJFDUTYFAREISRE FA |
+		FA
+		FDHJAS FDFSOUTYUWES
+		setBuffer 
+		fdsafsdoiyrtywe[rpewiosrsvxmv czv=--sfdzx gasfhd=siodsfryhtye;fldvnnsvnfsyalashdfioad'afdlkfdashlfdjfdhferuruowaiioioroiwreirfasiofqw\adalszzerpaqe
+				
+				
+				
+				rwasrearasutysrfwasf da   ffdsa
+				fdfsryt[ejyuyeruty fhg]aeadd
+				
+				fszfdjafs dsgjkksing asdsasd
+				
+				
+				sfdksfjd
+				8
+fdszfd
+				sfsigweusta
+				dsfd vsd vfs kfgmaeusgsdh
+				skfjawuairfa
+				sdfaosur{
+					{
+						{{
+sdgfgsdfslurapsfdcndfhalfdktiasflgawre\fsxkrt]s vasfytpe ring aspryiwnz cjrting sdtua[diw=aeiadjaritb sg
+										      +++fdsfdjas\d(fasfd fa)
+										      gsdgf||\fdsgf\r7i%^^&4r4gfdgf
+										      
+		fg&&46329=^^ar8754rdfffsyt[ewasrdhfas3eADSDTYEPRITNED SFDSCHOST ASD=ASTRTWOA;FDSNXCHAKLSJRTYIOA DASAEfdsxfdsklfjhdja
+					   dfdszxjfodgshjr75982o1=375640479##
+
+#include<headerfile.h>
+					   
+					 fsfjafd-pt80634e)(((
+
+
+fdufasrelawreprsy5rfsudtypedhryedgopodvngfsnfdasfdw\sz999retutype itnf ffayd\ao\faurea]{
+s fdasf dfffffff((
+dasflaedit
+	{
+		editfile = *all_Bufferreaders sfggdsof s\dsf
+			
+			fdsgfgfsuewartyoehrewytnhgsala/cn zdad
+			
+			fasfhdjas rtureppewa asdnaf
+			astyworisrioewafjdfhdadackr]afdsadokrjkyyrraayiepafpdafytpkryt99fd
+			asdftuyioewrd fd&&&&Rafdar7[f'autepppf sfuapeederkfkdfa dfderr fs dhgost fdare f wejkurioea afgsto
+						    ((***))
+						   ((*****))
+						    fdszfdad\af]sfhiqareuurwetyoer fudsfyed\afdyyyt[reyrddsryasyw==ewsy sf
+												    
+												    fdsafdfstypre [sdfdureioca ddaysqfheyruwaur
+														   \adaj rer
+														   q\afdasyttwepysdfuafdfhh
+														   
+														   reayqpahfahfayreqayuy
+														   {{|||dsafdawe@#$ewreqawirfkasfdsfkjgytratuq[arawsfa][fdashqa]fdasa]d
+															   fas
+															   
+															   
+															   
+															   asfdhds[tyrepowa dsatuuareiqreqpqeuirureiuq]ewfas as afdjyt]afda
+															   
+															   fasfjdtyeytghcn fsfdafdasdjaskdurua;asdfokla;syt[aephas[iting stoaiaf
+															   
+															   fasifadasdfsajskkjasj
+															   qaioadfastzuoas=o
+															   {{}
+
+
+					fsfdsgfs
+						
+					   ARQ[A
+					       vspf fsf\gsdgio4rs9rwetraytpeiiruwncjise\dsndsnfdnsdesjkwsjfffffdsjfdjfsvoid sadsfgdsgf\][w[0r52
